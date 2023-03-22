@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Zackbanda
-- 👀 I’m interested in oftware development
+- 👀 I’m interested in software development
+- I'm a certified financial and data analytics proffesional
 - 🌱 I’m currently learning Microsoft Power BI
 - 💞️ I’m looking to collaborate on Data analytics
 - 📫 How to reach me zackbanda@gmail.com
